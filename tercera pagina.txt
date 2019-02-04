@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+<TITLE>Primera Pagina</TITLE>
+</HEAD>
+<BODY background="imagen.jpg" text=white >
+</br>
+<B>Hola que tal</B>
+</BR>
+<U>Hola que tal</U>
+<time>10/1/2019</time>
+<details><img src="rey.gif" height=300 width=400 > </details>
+<ol>
+ <li> <a href=https://www.google.com>  <button> GOOGLE </button> </a> </li>
+ <li> <a href=file:///D:/JSG%204%20ESO/segunda%20pagina.html> <button> SEGUNDA PAGINA </button> </a></li>
+ <li> <a href=https://www.youtube.com/?gl=ES&hl=es> <button> YOUTUBE </button> </a></li>
+<marquee direction="up">Mira aqui</marquee>
+<table border=lpx border color=black >
+<tr>
+ <th> 1 </th>
+ <th> 2 </th>
+</tr>
+<tr>
+ <td> hola </td>
+ <td> que </td>
+</tr>
+<tr>
+ <td> tal </td>
+ <td> estas </td>
+</tr>
+</table>
+</HTML>
